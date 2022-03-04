@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Random;
 
 public class Wk2_Assignment {
     public static void main(String[] args) {
